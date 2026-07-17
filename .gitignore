@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Virtual environments
+.venv/
+tourenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
