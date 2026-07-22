@@ -6,6 +6,7 @@ Agent/agentic_workflow.py
 ai_tour_planner.egg-info/PKG-INFO
 ai_tour_planner.egg-info/SOURCES.txt
 ai_tour_planner.egg-info/dependency_links.txt
+ai_tour_planner.egg-info/requires.txt
 ai_tour_planner.egg-info/top_level.txt
 config/__init__.py
 exception/__init__.py

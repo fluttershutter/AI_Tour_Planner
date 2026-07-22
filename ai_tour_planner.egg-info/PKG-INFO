@@ -6,6 +6,7 @@ Author: Prabal Ghosh
 Author-email: prabaldatascience@gmail.com
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
+Requires-Dist: pandas>=3.0.3
 Dynamic: author
 Dynamic: author-email
 
