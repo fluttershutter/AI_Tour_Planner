@@ -1,22 +1,25 @@
-pip install uv
+print(shutil.which("uv"))```
 
-uv python list
+```pip install uv```
 
-uv python install cpython-3.11.15-windows-x86_64-none
+```uv init AI_Travel_Planner```
 
-uv python list
+```uv pip list```
 
-uv venv tourenv --python cpython-3.11.15-windows-x86_64-none
+```uv python list```
 
-C:\Users\user\OneDrive\Desktop\Agentic AI\AI_Tour_Planner\tourenv\Scripts\activate.bat
+```uv python install ypy-3.10.16-windows-x86_64-none```
 
-tourenv\Scripts\activate
+```uv python list```
 
-uv pip list
+```uv venv env --python cpython-3.10.18-windows-x86_64-none```
 
-cls
+```uv add pandas```
 
-uv pip install langchain
+#if you have conda then first deactivate that
+```conda deactivate```
 
-"c:\Users\user\OneDrive\Desktop\Agentic AI\AI_Tour_Planner\tourenv\Scripts\activate.bat"
-doskey/history
+```uv venv env --python cpython-3.10.18-windows-x86_64-none```
+
+## use this command from your virtual env
+```C:\Users\sunny\AI_Trip_Planner\env\Scripts\activate.bat```
